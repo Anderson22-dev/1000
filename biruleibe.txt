@@ -1,3 +1,0 @@
-Tela principal
-Tela de login
-tela de acesso
