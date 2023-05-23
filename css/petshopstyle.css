@@ -120,3 +120,7 @@ h2 {
     text-transform: uppercase;
     margin-bottom: 15px;
 }
+
+#produto .flex-container, #contato .flex-container {
+    margin-top: 43px;
+}
