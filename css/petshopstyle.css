@@ -152,7 +152,28 @@ footer {
     margin: auto;
 }
 
+@media (max-width: 580px) {
+    .flex-container{
+        display: flex;
+        flex-direction:column;
+        text-align: center;
+        align-items: center;
+    }
+    .container{
+        width: auto;
+    }
+    .texto-centralizado{
+        width: 430px;
+        margin: auto;
+    }
+    .btn-pata, p{
+        margin-bottom: 15px;
+    }
+    form input, form textarea{
+        width: 430px;
+    }
+    form strong{
+        float: left;
+    }
 
-
-
-
+}
